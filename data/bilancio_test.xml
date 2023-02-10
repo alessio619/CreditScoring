@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html>
+ <body>
+  <xbrl>
+   <context id="i_Corrente">
+    <entity>
+     <identifier scheme="http://www.infocamere.it">
+      0000000000000
+     </identifier>
+    </entity>
+    <period>
+     <instant>
+      2021-12-31
+     </instant>
+    </period>
+   </context>
+   <context id="d_Corrente">
+    <entity>
+     <identifier scheme="http://www.infocamere.it">
+      0000000000000
+     </identifier>
+    </entity>
+    <period>
+     <startdate>
+      2021-01-12
+     </startdate>
+     <enddate>
+      2021-12-31
+     </enddate>
+    </period>
+   </context>
+   <unit id="eur">
+    <measure>
+     iso4217:EUR
+    </measure>
+   </unit>
+   <unit id="shares">
+    <measure>
+     xbrli:shares
+    </measure>
+   </unit>
+   <unit id="pure">
+    <measure>
+     xbrli:pure
+    </measure>
+   </unit>
+   <itcc-ci:patrimonionettoutileperditaesercizio contextref="i_Corrente" decimals="0" unitref="eur">
+    -94264
+   </itcc-ci:patrimonionettoutileperditaesercizio>
+   <itcc-ci:utileperditaesercizio contextref="d_Corrente" decimals="0" unitref="eur">
+    -94264
+   </itcc-ci:utileperditaesercizio>
+   <itcc-ci:differenzavalorecostiproduzione contextref="d_Corrente" decimals="0" unitref="eur">
+    -94264
+   </itcc-ci:differenzavalorecostiproduzione>
+   <itcc-ci:risultatoprimaimposte contextref="d_Corrente" decimals="0" unitref="eur">
+    -94264
+   </itcc-ci:risultatoprimaimposte>
+   <itcc-ci:totalecreditiversosociversamentiancoradovuti contextref="i_Corrente" decimals="0" unitref="eur">
+    33
+   </itcc-ci:totalecreditiversosociversamentiancoradovuti>
+   <itcc-ci:patrimonionettocapitale contextref="i_Corrente" decimals="0" unitref="eur">
+    209
+   </itcc-ci:patrimonionettocapitale>
+   <itcc-ci:valoreproduzionealtriricaviproventialtri contextref="d_Corrente" decimals="0" unitref="eur">
+    260
+   </itcc-ci:valoreproduzionealtriricaviproventialtri>
+   <itcc-ci:costiproduzioneoneridiversigestione contextref="d_Corrente" decimals="0" unitref="eur">
+    939
+   </itcc-ci:costiproduzioneoneridiversigestione>
+   <itcc-ci:attivorateirisconti contextref="i_Corrente" decimals="0" unitref="eur">
+    1765
+   </itcc-ci:attivorateirisconti>
+   <itcc-ci:totaleimmobilizzazionimateriali contextref="i_Corrente" decimals="0" unitref="eur">
+    2765
+   </itcc-ci:totaleimmobilizzazionimateriali>
+   <itcc-ci:totalerimanenze contextref="i_Corrente" decimals="0" unitref="eur">
+    3000
+   </itcc-ci:totalerimanenze>
+   <itcc-ci:valoreproduzionevariazionirimanenzeprodotticorsolavorazionesemilavoratifiniti contextref="d_Corrente" decimals="0" unitref="eur">
+    3000
+   </itcc-ci:valoreproduzionevariazionirimanenzeprodotticorsolavorazionesemilavoratifiniti>
+   <itcc-ci:valoreproduzionevariazionirimanenzeprodotticorsolavorazionesemilavoratifinitilavoricorsoordi contextref="d_Corrente" decimals="0" nazione="" unitref="eur">
+    3000
+   </itcc-ci:valoreproduzionevariazionirimanenzeprodotticorsolavorazionesemilavoratifinitilavoricorsoordi>
+   <itcc-ci:valoreproduzionealtriricaviproventicontributicontoesercizio contextref="d_Corrente" decimals="0" unitref="eur">
+    4000
+   </itcc-ci:valoreproduzionealtriricaviproventicontributicontoesercizio>
+   <itcc-ci:valoreproduzionealtriricaviproventitotalealtriricaviproventi contextref="d_Corrente" decimals="0" unitref="eur">
+    4260
+   </itcc-ci:valoreproduzionealtriricaviproventitotalealtriricaviproventi>
+   <itcc-ci:patrimonionettoaltreriservedistintamenteindicatetotalealtreriserve contextref="i_Corrente" decimals="0" unitref="eur">
+    50000
+   </itcc-ci:patrimonionettoaltreriservedistintamenteindicatetotalealtreriserve>
+   <itcc-ci:totaledisponibilitaliquide contextref="i_Corrente" decimals="0" unitref="eur">
+    54891
+   </itcc-ci:totaledisponibilitaliquide>
+   <itcc-ci:totaleimmobilizzazioniimmateriali contextref="i_Corrente" decimals="0" unitref="eur">
+    74819
+   </itcc-ci:totaleimmobilizzazioniimmateriali>
+   <itcc-ci:costiproduzionematerieprimesussidiarieconsumomerci contextref="d_Corrente" decimals="0" unitref="eur">
+    75461
+   </itcc-ci:costiproduzionematerieprimesussidiarieconsumomerci>
+   <itcc-ci:totaleimmobilizzazioni contextref="i_Corrente" decimals="0" unitref="eur">
+    77584
+   </itcc-ci:totaleimmobilizzazioni>
+   <itcc-ci:totalepatrimonionetto contextref="i_Corrente" decimals="0" unitref="eur">
+    85927
+   </itcc-ci:totalepatrimonionetto>
+   <itcc-ci:totalecrediti contextref="i_Corrente" decimals="0" unitref="eur">
+    87895
+   </itcc-ci:totalecrediti>
+   <itcc-ci:creditiesigibilientroeserciziosuccessivo contextref="i_Corrente" decimals="0" unitref="eur">
+    87895
+   </itcc-ci:creditiesigibilientroeserciziosuccessivo>
+   <itcc-ci:valoreproduzionericavivenditeprestazioni contextref="d_Corrente" decimals="0" unitref="eur">
+    111055
+   </itcc-ci:valoreproduzionericavivenditeprestazioni>
+   <itcc-ci:totalevaloreproduzione contextref="d_Corrente" decimals="0" unitref="eur">
+    118315
+   </itcc-ci:totalevaloreproduzione>
+   <itcc-ci:patrimonionettoriservasoprapprezzoazioni contextref="i_Corrente" decimals="0" unitref="eur">
+    129982
+   </itcc-ci:patrimonionettoriservasoprapprezzoazioni>
+   <itcc-ci:costiproduzioneservizi contextref="d_Corrente" decimals="0" unitref="eur">
+    136179
+   </itcc-ci:costiproduzioneservizi>
+   <itcc-ci:totaledebiti contextref="i_Corrente" decimals="0" unitref="eur">
+    139241
+   </itcc-ci:totaledebiti>
+   <itcc-ci:debitiesigibilientroeserciziosuccessivo contextref="i_Corrente" decimals="0" unitref="eur">
+    139241
+   </itcc-ci:debitiesigibilientroeserciziosuccessivo>
+   <itcc-ci:totaleattivocircolante contextref="i_Corrente" decimals="0" unitref="eur">
+    145786
+   </itcc-ci:totaleattivocircolante>
+   <itcc-ci:totalecostiproduzione contextref="d_Corrente" decimals="0" unitref="eur">
+    212579
+   </itcc-ci:totalecostiproduzione>
+   <itcc-ci:totaleattivo contextref="i_Corrente" decimals="0" unitref="eur">
+    22516800
+   </itcc-ci:totaleattivo>
+   <itcc-ci:totalepassivo contextref="i_Corrente" decimals="0" unitref="eur">
+    225168
+   </itcc-ci:totalepassivo>
+   <itcc-ci:datianagraficidenominazione contextref="i_Corrente">
+    AZIENDA ABC
+   </itcc-ci:datianagraficidenominazione>
+   <itcc-ci:datianagraficipartitaiva contextref="i_Corrente">
+    00000000000
+   </itcc-ci:datianagraficipartitaiva>
+   <itcc-ci:datianagraficicodicefiscale contextref="i_Corrente">
+    00000000000
+   </itcc-ci:datianagraficicodicefiscale>
+   <itcc-ci:datianagraficisede contextref="i_Corrente">
+    VIA ROMA 111
+   </itcc-ci:datianagraficisede>
+   <itcc-ci:datianagraficicapitalesociale contextref="i_Corrente" decimals="0" unitref="eur">
+    213
+   </itcc-ci:datianagraficicapitalesociale>
+   <itcc-ci:datianagraficicapitalesocialeinteramenteversato contextref="i_Corrente">
+    true
+   </itcc-ci:datianagraficicapitalesocialeinteramenteversato>
+   <itcc-ci:datianagraficisocietasociounico contextref="i_Corrente">
+    false
+   </itcc-ci:datianagraficisocietasociounico>
+   <itcc-ci:datianagraficisocietasottopostaaltruiattivitadirezionecoordinamento contextref="i_Corrente">
+    false
+   </itcc-ci:datianagraficisocietasottopostaaltruiattivitadirezionecoordinamento>
+   <itcc-ci:datianagraficiappartenenzagruppo contextref="i_Corrente">
+    false
+   </itcc-ci:datianagraficiappartenenzagruppo>
+   <itcc-ci:datianagraficicodicecciaa contextref="i_Corrente">
+    Cuneo
+   </itcc-ci:datianagraficicodicecciaa>
+   <itcc-ci:datianagraficinumerorea contextref="i_Corrente">
+    0000000
+   </itcc-ci:datianagraficinumerorea>
+   <itcc-ci:datianagraficisocietaliquidazione contextref="i_Corrente">
+    false
+   </itcc-ci:datianagraficisocietaliquidazione>
+   <itcc-ci:datianagraficiformagiuridica contextref="i_Corrente">
+    SOCIETA' A RESPONSABILITA' LIMITATA
+   </itcc-ci:datianagraficiformagiuridica>
+   <itcc-ci:datianagraficisettoreattivitaprevalenteateco contextref="i_Corrente">
+    620100 Produzione di software non connesso all'edizione
+   </itcc-ci:datianagraficisettoreattivitaprevalenteateco>
+   <itcc-ci:commentobilanciomicroaltreinformazioni contextref="i_Corrente">
+   </itcc-ci:commentobilanciomicroaltreinformazioni>
+   <itcc-ci:commentoinformazionicalceallostatopatrimonialemicro contextref="i_Corrente">
+   </itcc-ci:commentoinformazionicalceallostatopatrimonialemicro>
+   <itcc-ci:commentoinformazioniexart1comma125legge4agosto2017n124 contextref="i_Corrente">
+   </itcc-ci:commentoinformazioniexart1comma125legge4agosto2017n124>
+   <itcc-ci:commentoinformazionirelativestartupanchevocazionesocialepmiinnovative contextref="i_Corrente">
+   </itcc-ci:commentoinformazionirelativestartupanchevocazionesocialepmiinnovative>
+   <itcc-ci:dichiarazioneconformita contextref="i_Corrente">
+   </itcc-ci:dichiarazioneconformita>
+   <itcc-ci:introduzionebilanciomicroaltreinformazioni contextref="i_Corrente">
+   </itcc-ci:introduzionebilanciomicroaltreinformazioni>
+   <itcc-ci:introduzioneinformazionicalceallostatopatrimonialemicro contextref="i_Corrente">
+   </itcc-ci:introduzioneinformazionicalceallostatopatrimonialemicro>
+   <itcc-ci:amministratorianticipazioni contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:amministratorianticipazioni>
+   <itcc-ci:amministratoricompensi contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:amministratoricompensi>
+   <itcc-ci:amministratoricrediti contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:amministratoricrediti>
+   <itcc-ci:amministratoriimpegniassuntilorocontoeffettogaranzieprestate contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:amministratoriimpegniassuntilorocontoeffettogaranzieprestate>
+   <itcc-ci:sindacianticipazioni contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:sindacianticipazioni>
+   <itcc-ci:sindacicompensi contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:sindacicompensi>
+   <itcc-ci:sindacicrediti contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:sindacicrediti>
+   <itcc-ci:sindaciimpegniassuntilorocontoeffettogaranzieprestate contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:sindaciimpegniassuntilorocontoeffettogaranzieprestate>
+   <itcc-ci:garanzieimporto contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:garanzieimporto>
+   <itcc-ci:garanziereali contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:garanziereali>
+   <itcc-ci:impegniconfrontiimpresecollegate contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegniconfrontiimpresecollegate>
+   <itcc-ci:impegniconfrontiimpresecontrollanti contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegniconfrontiimpresecontrollanti>
+   <itcc-ci:impegniconfrontiimpresecontrollate contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegniconfrontiimpresecontrollate>
+   <itcc-ci:impegniconfrontiimpresesottopostecontrollocontrollanti contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegniconfrontiimpresesottopostecontrollocontrollanti>
+   <itcc-ci:impegniimporto contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegniimporto>
+   <itcc-ci:impegnimateriatrattamentoquiescenzasimili contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:impegnimateriatrattamentoquiescenzasimili>
+   <itcc-ci:passivitapotenzialiimporto contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:passivitapotenzialiimporto>
+   <itcc-ci:azioniproprienumero contextref="i_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:azioniproprienumero>
+   <itcc-ci:azionipropriepartecapitalecorrispondente contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:azionipropriepartecapitalecorrispondente>
+   <itcc-ci:azioniproprievalorenominale contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:azioniproprievalorenominale>
+   <itcc-ci:azioniquotesocietacontrollantinumero contextref="i_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:azioniquotesocietacontrollantinumero>
+   <itcc-ci:azioniquotesocietacontrollantipartecapitalecorrispondente contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:azioniquotesocietacontrollantipartecapitalecorrispondente>
+   <itcc-ci:azioniquotesocietacontrollantivalorenominale contextref="i_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:azioniquotesocietacontrollantivalorenominale>
+   <itcc-ci:acquisizionieserciziocorrispettivoazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziocorrispettivoazioniproprie>
+   <itcc-ci:acquisizionieserciziocorrispettivoazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziocorrispettivoazioniquotesocietacontrollanti>
+   <itcc-ci:acquisizioniesercizionumeroazioniproprie contextref="d_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:acquisizioniesercizionumeroazioniproprie>
+   <itcc-ci:acquisizioniesercizionumeroazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:acquisizioniesercizionumeroazioniquotesocietacontrollanti>
+   <itcc-ci:acquisizionieserciziopartecapitalecorrispondenteazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziopartecapitalecorrispondenteazioniproprie>
+   <itcc-ci:acquisizionieserciziopartecapitalecorrispondenteazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziopartecapitalecorrispondenteazioniquotesocietacontrollanti>
+   <itcc-ci:acquisizionieserciziovalorenominaleazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziovalorenominaleazioniproprie>
+   <itcc-ci:acquisizionieserciziovalorenominaleazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:acquisizionieserciziovalorenominaleazioniquotesocietacontrollanti>
+   <itcc-ci:alienazionieserciziocorrispettivoazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziocorrispettivoazioniproprie>
+   <itcc-ci:alienazionieserciziocorrispettivoazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziocorrispettivoazioniquotesocietacontrollanti>
+   <itcc-ci:alienazioniesercizionumeroazioniproprie contextref="d_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:alienazioniesercizionumeroazioniproprie>
+   <itcc-ci:alienazioniesercizionumeroazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="shares">
+    0
+   </itcc-ci:alienazioniesercizionumeroazioniquotesocietacontrollanti>
+   <itcc-ci:alienazionieserciziopartecapitalecorrispondenteazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziopartecapitalecorrispondenteazioniproprie>
+   <itcc-ci:alienazionieserciziopartecapitalecorrispondenteazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziopartecapitalecorrispondenteazioniquotesocietacontrollanti>
+   <itcc-ci:alienazionieserciziovalorenominaleazioniproprie contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziovalorenominaleazioniproprie>
+   <itcc-ci:alienazionieserciziovalorenominaleazioniquotesocietacontrollanti contextref="d_Corrente" decimals="0" unitref="eur">
+    0
+   </itcc-ci:alienazionieserciziovalorenominaleazioniquotesocietacontrollanti>
+  </xbrl>
+ </body>
+</html>
